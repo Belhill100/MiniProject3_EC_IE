@@ -1,4 +1,4 @@
-; OM File Header - Saved 2024/09/26 10:32:34
-; (7.03 :lisp (om-make-point 145 92) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/26 09:55:37" "2024/09/26 10:31:07")
+; OM File Header - Saved 2024/09/26 15:40:54
+; (7.03 :lisp (om-make-point 145 95) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/26 09:55:37" "2024/09/26 15:40:54")
 ; End File Header
-(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "LispFunction 2" 7.03 ";;; Edit a valid LAMBDA EXPRESSION for \"LispFunction\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (setf repeated-list (loop repeat 5 append my-list))$)"))
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "LispFunction 2" 7.03 ";;; Edit a valid LAMBDA EXPRESSION for \"LispFunction\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (listas) (apply #'concatenate 'list listas))"))
