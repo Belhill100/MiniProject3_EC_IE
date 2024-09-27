@@ -24,5 +24,7 @@ The music composition algorithm was carefully designed to create a balanced and 
 
 The piece adheres to the project’s requirement of having at least 1 minute of unique music by using generative techniques that prevent exact repetitions while maintaining thematic coherence. The use of typed programming in our functions ensures clarity and consistency in the algorithm's logic.
 
+## YouTube Video
 
+Watch the gameplay with the generated soundtrack here: [YouTube Video Link]
 
